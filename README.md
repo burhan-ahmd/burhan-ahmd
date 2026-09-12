@@ -81,8 +81,8 @@ A centralized interface for running AI media-processing tools such as transcript
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burrnboy&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burrnboy&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=burhan-ahmd&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan-ahmd&layout=compact&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -120,10 +120,10 @@ I believe the fastest way to become a better developer is to keep building real 
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/burrnboy">
+  <a href="https://github.com/burhan-ahmd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/burhan-ahmed0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
