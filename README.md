@@ -78,36 +78,22 @@ A centralized interface for running AI media-processing tools such as transcript
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burhan-ahmd&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan-ahmd&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burrnboy&hide_border=true" />
-</p>
+* 🌐 Full-Stack MERN Applications
+* 🤖 AI-powered Applications & Agents
+* 👁️ Computer Vision Projects
+* ⚡ Automation Workflows
+* 🚀 Real-world Developer Projects
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Current Focus
 
-* MERN Stack
-* Advanced React
-* Backend Architecture
-* REST APIs
-* Authentication & Authorization
-* AI Agents
-* Retrieval-Augmented Generation
-* LLM Applications
-* Cloud Deployment
+```text
+Building → Learning → Improving → Shipping
+```
 
----
 
 ## 💡 My Development Philosophy
 
